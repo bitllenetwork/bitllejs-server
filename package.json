@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/bitllenetwork/bitllejs-server/issues"
   },
-  "homepage": "https://github.com/bitllenetwork/bitllejs#readme",
+  "homepage": "https://github.com/bitllenetwork/bitllejs-server#readme",
   "dependencies": {
     "bitllejs": "^0.1.7",
     "cookie-parser": "~1.4.3",

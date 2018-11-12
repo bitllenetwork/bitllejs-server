@@ -22,7 +22,7 @@ npm start
 
 ## Использование
 
-[Документация](wiki)
+[Документация](https://github.com/bitllenetwork/bitllejs-server/wiki)
 
 ## Зависимости
 
@@ -39,7 +39,7 @@ sudo apt-get install nodejs-legacy
 
 ## License
 
-[LGPL-3.0+](LICENSE.md) © 2018 Contributors
+[LGPL-3.0+](https://github.com/bitllenetwork/bitllejs-server/LICENSE.md) © 2018 Contributors
 
 [npm-image]: https://badge.fury.io/js/bitllejs-server.svg
 [npm-url]: https://npmjs.org/package/bitllejs-server
