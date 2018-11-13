@@ -4,7 +4,7 @@
 [![NPM version][npm-image]][npm-url]
 
 # Описание
-BitlleJs-Server является REST оберткой для [bitllejs](https://github.com/bitllenetwork/bitllejs) - для осуществления запросов в формате REST в Bitlle Network.
+BitlleJs-Server является REST оберткой для [bitlle.js](https://github.com/bitllenetwork/bitllejs) (библиотека для взаимодействия с Bitlle Network).
 
 ## Установка
 
