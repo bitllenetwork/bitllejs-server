@@ -1,8 +1,7 @@
 module.exports = {
     port: 8008,
     rpc: {
-        1: 'https://ropsten.infura.io/123',
-        2: 'https://ropsten.infura.io/matemask'
+        1: 'http://95.216.13.111:1111',
     },
     restapi: {
         host: 'https://test.api.bitlle.network',

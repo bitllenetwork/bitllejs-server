@@ -1,5 +1,4 @@
 const transferRouter = require('./transfer');
-const exchangeRouter = require('./exchange');
 const accountsRouter = require('./accounts');
 const transactionsRouter = require('./transactions');
 const infoRouter = require('./info');
@@ -10,7 +9,6 @@ module.exports = function (app, router) {
     });
 
     transferRouter(app, router);
-    exchangeRouter(app, router);
     accountsRouter(app, router);
     transactionsRouter(app, router);
     infoRouter(app, router);
