@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bitllenetwork/bitllejs-server#readme",
   "dependencies": {
-    "bitllejs": "^0.1.7",
+    "bitllejs": "^0.1.8",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
