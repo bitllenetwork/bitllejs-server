@@ -1,6 +1,6 @@
 {
   "name": "bitllejs-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BitlleJs-Server является REST оберткой для bitllejs - для осуществления запросов в формате REST в Bitlle Network.",
   "private": false,
   "scripts": {
